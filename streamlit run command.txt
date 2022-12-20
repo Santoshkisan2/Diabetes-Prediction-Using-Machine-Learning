@@ -1,0 +1,1 @@
+streamlit run "C:\Users\santo\OneDrive\Desktop\Diabetes Prediction using Machine Learning\Diabetes_streamlit_deployment_local.py"
